@@ -1,0 +1,15 @@
+{
+  "author": "IoT Open",
+  "licence": "MIT",
+  "input": {
+  },
+  "guide": [
+    {
+      "id": "stage_1",
+      "title": "This app doesn't need any configuration.",
+      "description": "",
+      "input_fields": [
+      ]
+    }
+  ]
+}
